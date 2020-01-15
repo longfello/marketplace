@@ -1,0 +1,1 @@
+<div class="brotate_text"><?=$banner;?></div>

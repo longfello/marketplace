@@ -1,0 +1,41 @@
+
+h3 {
+    color:#333333;
+    text-shadow: silver 1px 1px 2px;
+    font-size:16px;
+    margin-bottom:5px;
+    padding: 5px 5px 5px 0px;
+}
+
+h4 {
+    color:#333333;
+    text-shadow: silver 1px 1px 2px;
+    font-size:15px;
+    margin-bottom:5px;
+}
+
+hr {
+    border:1px solid #EBEBEB;
+}
+
+.attributesList {
+    height: 350px;
+}
+table.attributesTable thead {
+    font-weight: bold;
+    color:#4C4C4C;
+}
+table.attributesTable thead td {
+    padding: 5px;
+}
+div.form input[type=text].order_quantity_short {
+    width: 28px;
+    padding: 1px;
+}
+
+.status-errors { color: #ff0000; font-weight: bold; }
+.status-blocked { color: #ff0000; font-weight: bold; }
+.status-assign { color: #3875d7;}
+.status-approved { color: #387038 }
+.status-confirmation { color: #CA0EE3; }
+.item-inserted { color: brown !important; font-weight: bold;}
